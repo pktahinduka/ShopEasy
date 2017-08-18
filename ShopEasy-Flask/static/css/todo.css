@@ -27,7 +27,7 @@ body {
     width: 250px;
     float: left;
     margin: 0 5px;
-    background-color: #e3e3e3;
+    background-color: #AEC8ED;
     min-height: 240px;
     border-radius: 10px;
     padding-bottom: 15px;
@@ -45,7 +45,7 @@ body {
 .todo-task{
     border-radius: 5px;
     background-color: #fff;
-    width: 230px;
+    width: 240px;
     margin: 5px;
     padding: 5px;
 }
